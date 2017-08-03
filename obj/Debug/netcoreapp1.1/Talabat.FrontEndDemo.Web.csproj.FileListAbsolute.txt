@@ -1,0 +1,9 @@
+C:\Users\owner\Source\Workspaces\TalabatDemo\TabalabMicroserviceDemo\Talabat.FrontEndDemo.Web\bin\Debug\netcoreapp1.1\Talabat.FrontEndDemo.Web.deps.json
+C:\Users\owner\Source\Workspaces\TalabatDemo\TabalabMicroserviceDemo\Talabat.FrontEndDemo.Web\bin\Debug\netcoreapp1.1\Talabat.FrontEndDemo.Web.runtimeconfig.json
+C:\Users\owner\Source\Workspaces\TalabatDemo\TabalabMicroserviceDemo\Talabat.FrontEndDemo.Web\bin\Debug\netcoreapp1.1\Talabat.FrontEndDemo.Web.runtimeconfig.dev.json
+C:\Users\owner\Source\Workspaces\TalabatDemo\TabalabMicroserviceDemo\Talabat.FrontEndDemo.Web\bin\Debug\netcoreapp1.1\Talabat.FrontEndDemo.Web.dll
+C:\Users\owner\Source\Workspaces\TalabatDemo\TabalabMicroserviceDemo\Talabat.FrontEndDemo.Web\bin\Debug\netcoreapp1.1\Talabat.FrontEndDemo.Web.pdb
+C:\Users\owner\Source\Workspaces\TalabatDemo\TabalabMicroserviceDemo\Talabat.FrontEndDemo.Web\obj\Debug\netcoreapp1.1\Talabat.FrontEndDemo.Web.csprojResolveAssemblyReference.cache
+C:\Users\owner\Source\Workspaces\TalabatDemo\TabalabMicroserviceDemo\Talabat.FrontEndDemo.Web\obj\Debug\netcoreapp1.1\Talabat.FrontEndDemo.Web.AssemblyInfo.cs
+C:\Users\owner\Source\Workspaces\TalabatDemo\TabalabMicroserviceDemo\Talabat.FrontEndDemo.Web\obj\Debug\netcoreapp1.1\Talabat.FrontEndDemo.Web.dll
+C:\Users\owner\Source\Workspaces\TalabatDemo\TabalabMicroserviceDemo\Talabat.FrontEndDemo.Web\obj\Debug\netcoreapp1.1\Talabat.FrontEndDemo.Web.pdb
