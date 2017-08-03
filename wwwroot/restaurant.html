@@ -90,28 +90,16 @@
 
                     </thead>
                     <tr></tr>
-                    <tr>
-                        <td>
-                            KFC
-                        </td>
-                        <td>
-                            Items goes here
-                        </td>
-                        <td class="text-center">
-                            <div>
-                                <button class="btn btn-success">Accept</button>
-                                <button class="btn btn-danger">Reject</button>
-                            </div>
-                        </td>
+                    
                     <tr ng-repeat="item in restOrder">
                         <td>
-                            {{item.restaurantName}}
+                            {{item.resturantName}}
                         </td>
                         <td>
                             {{item.orderDetails}}
                         </td>
                         <td class="text-center">
-                            <div ng-hide="item.status != 0">
+                            <div ng-hide="item.status == 1">
                                 <button class="btn btn-success" ng-click="accept(item)">Accept</button>
                                 <button class="btn btn-danger" ng-click="reject(item)">Reject</button>
                             </div>
